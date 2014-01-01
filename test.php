@@ -1,8 +1,4 @@
-<?php
+<?php echo "files is change now ";
 
-echo "version 1";
-
-echo "version 2";
-
-echo "version 3";
+echo "text goes herere";sdfsfddfds
 ?>
